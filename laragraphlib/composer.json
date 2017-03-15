@@ -1,0 +1,14 @@
+{
+    "name": "unniks/laragraphlib",
+    "description": "This package for to create graphs with php in laravel",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Unni KS",
+            "email": "unniks.here@gmail.com"
+        }
+    ],
+    "minimum-stability": "beta",
+    "require": {}
+}
